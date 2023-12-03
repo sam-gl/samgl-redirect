@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 4654;
+const port = 8080;
 
 const demoRedirects = {
   // 'sonicboom': 'https://demo.sam.gl/sonicboom',
