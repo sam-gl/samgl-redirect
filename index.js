@@ -9,7 +9,8 @@ const demoRedirects = {
 
 const codeRedirects = {
   'sonicboom': 'https://github.com/sam-gl/sonicboom',
-  'hermes': 'https://github.com/sam-gl/hermes-react'
+  'hermes': 'https://github.com/sam-gl/hermes-react',
+  'netwatch': 'https://github.com/samhynds/NetWatch'
 };
 
 app.get('/', (req, res) => {
