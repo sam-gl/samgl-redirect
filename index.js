@@ -8,8 +8,8 @@ const demoRedirects = {
 };
 
 const codeRedirects = {
-  'sonicboom': 'https://github.com/sam-gl/sonicboom',
-  'hermes': 'https://github.com/sam-gl/hermes-react',
+  'sonicboom': 'https://github.com/samhynds/sonicboom',
+  'hermes': 'https://github.com/samhynds/hermes-react',
   'netwatch': 'https://github.com/samhynds/NetWatch'
 };
 
