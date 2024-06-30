@@ -5,12 +5,14 @@ const port = 8080;
 const demoRedirects = {
   // 'sonicboom': 'https://demo.sam.gl/sonicboom',
   // 'hermes': 'https://hermes.example.com'
+  'graffiti-ui': 'https://samhynds.github.io/graffiti-ui/'
 };
 
 const codeRedirects = {
   'sonicboom': 'https://github.com/samhynds/sonicboom',
   'hermes': 'https://github.com/samhynds/hermes-react',
-  'netwatch': 'https://github.com/samhynds/NetWatch'
+  'netwatch': 'https://github.com/samhynds/NetWatch',
+  'graffiti-ui': 'https://github.com/samhynds/graffiti-ui'
 };
 
 app.get('/', (req, res) => {
